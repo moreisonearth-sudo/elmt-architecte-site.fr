@@ -1,0 +1,35 @@
+# Fichier robots.txt pour ELMT Architecte
+# Optimisé pour Google et les moteurs de recherche
+
+User-agent: *
+Allow: /
+
+# URLs canoniques et优先级
+Sitemap: https://elmt-architecte.pages.dev/sitemap.xml
+
+# Instructions pour les moteurs de recherche
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot Image
+Allow: /assets/images/
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Empêcher l'indexation des fichiers privés (optionnel)
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+# Version du fichier
+# Ce fichier aide les moteurs de recherche à comprendre la structure du site

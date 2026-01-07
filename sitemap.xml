@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Page d'accueil -->
+    <url>
+        <loc>https://elmt-architecte.pages.dev/</loc>
+        <lastmod>2025-01-07</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://elmt-architecte.pages.dev/assets/images/quartier-du-bois-1.png</image:loc>
+            <image:title>ELMT Architecte - Cabinet d'Architecture en Île-de-France</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Bâtiment Collectif -->
+    <url>
+        <loc>https://elmt-architecte.pages.dev/batiment-collectif.html</loc>
+        <lastmod>2025-01-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://elmt-architecte.pages.dev/assets/images/quartier-du-bois-1.png</image:loc>
+            <image:title>Projets de Bâtiments Collectifs - ELMT Architecte</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Équipement -->
+    <url>
+        <loc>https://elmt-architecte.pages.dev/equipement.html</loc>
+        <lastmod>2025-01-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://elmt-architecte.pages.dev/assets/images/equipement-rugby-1.png</image:loc>
+            <image:title>Équipements Publics et Tertiaires - ELMT Architecte</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Maison Individuelle -->
+    <url>
+        <loc>https://elmt-architecte.pages.dev/maison-individuelle.html</loc>
+        <lastmod>2025-01-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://elmt-architecte.pages.dev/assets/images/maison-villa-4havres-1.jpg</image:loc>
+            <image:title>Maisons Individuelles et Villas - ELMT Architecte</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Ravalement -->
+    <url>
+        <loc>https://elmt-architecte.pages.dev/ravalement.html</loc>
+        <lastmod>2025-01-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://elmt-architecte.pages.dev/assets/images/ravalement-facade-paris-1.jpg</image:loc>
+            <image:title>Ravalement de Façade et Rénovation - ELMT Architecte</image:title>
+        </image:image>
+    </url>
+    
+</urlset>
